@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    position: relative;
+}
+
+.card-b{
+	margin-bottom: 20px;
+}
+
+.cont{
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.container{
+	margin-bottom: 50px;
+}
+
+content{
+	display: flex;
+    flex-direction: row;
+	justify-content: space-around;
+	margin-bottom: 40px;
+}
+
+.ico {
+    border-radius: 50%;
+    height: 50px;
+    margin-right: 10px;
+    width: 50px;
+}
+
+h1, h2 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #ffa3d5;
+    color: white;
+    padding: 10px;
+}
+
+main{
+    background: #faabd7;
+	height: auto;
+	margin-left: 6%;
+    padding-bottom: 40px;
+	position: relative;
+    width: 94%;
+}
+
+.main_films{
+	height: auto;
+	margin-left: 0%;
+    padding-top: 30px;
+    width: 100%;
+}
+
+.navbar-nav .nav-link {
+    color: black;
+    font-size: 20px;
+}
+
+p, ul, ol, li {
+    font-size: 18px;
+}
+
+.tabled, th{
+    background: white;
+	color: white;
+}
